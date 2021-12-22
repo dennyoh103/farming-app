@@ -1,0 +1,11 @@
+.window{
+    display: inline-block;
+    
+}
+
+.farm{
+    align-self: center;
+    height: 650px;
+    width: 1000px;
+    display: flex;
+}

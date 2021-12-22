@@ -1,0 +1,15 @@
+.wet{
+    height: 60px;
+    width: 90px;
+    background-color: rgba(140, 216, 133, 0.87);
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.dry {
+    height: 60px;
+    width: 90px;
+    background-color: rgba(224, 178, 118, 0.87);
+    border: 1px solid black;
+    display: inline-block;
+}
